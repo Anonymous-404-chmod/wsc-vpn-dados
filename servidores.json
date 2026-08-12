@@ -5,7 +5,12 @@
     "maintenance_message": "Identificamos uma oscilação na rede e nossa equipe já está aplicando ajustes técnicos.",
     "latest_version_code": 1,
     "force_update": false,
-    "update_url": ""
+    "update_url": "",
+    "maintenance": {
+      "in_maintenance": false,
+      "title": "ola",
+      "message": "bem vindo"
+    }
   },
   "servers": [
     {
