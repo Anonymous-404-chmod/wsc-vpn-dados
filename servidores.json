@@ -15,7 +15,7 @@
   "servers": [
     {
       "id": "srv_1786582460702",
-      "name": "DINAMARCA",
+      "name": "DINAMARCA UDP",
       "country_code": "de",
       "username": "vpnbook",
       "password": "ytw2awn",
