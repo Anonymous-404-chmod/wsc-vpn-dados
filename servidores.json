@@ -7,7 +7,7 @@
     "force_update": false,
     "update_url": "",
     "maintenance": {
-      "in_maintenance": true,
+      "in_maintenance": false,
       "title": "ola",
       "message": "bem vindo ao game"
     }
