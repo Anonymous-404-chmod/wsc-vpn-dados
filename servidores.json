@@ -8,8 +8,8 @@
     "update_url": "",
     "maintenance": {
       "in_maintenance": false,
-      "title": "ola",
-      "message": "bem vindo ao game"
+      "title": "",
+      "message": ""
     },
     "custom_dialog": {
       "active": false,
