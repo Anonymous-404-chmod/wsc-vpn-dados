@@ -7,8 +7,8 @@
     "force_update": false,
     "update_url": "",
     "maintenance": {
-      "in_maintenance": false,
-      "title": "ola1",
+      "in_maintenance": true,
+      "title": "ola",
       "message": "bem vindo ao game"
     },
     "custom_dialog": {
