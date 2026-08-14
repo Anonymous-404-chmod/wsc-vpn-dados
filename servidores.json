@@ -10,6 +10,11 @@
       "in_maintenance": true,
       "title": "ola",
       "message": "bem vindo ao game"
+    },
+    "custom_dialog": {
+      "active": false,
+      "title": "",
+      "message": ""
     }
   },
   "servers": [
