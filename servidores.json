@@ -15,6 +15,12 @@
       "active": false,
       "title": "Bem vindo ao WSC VPN",
       "message": "HEAD http:\/\/Ubuntu.vm.co.mz\/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]X-Online-Host: h.facebook.com[crlf]User-Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64)[crlf]X-Forward-Host: h.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]"
+    },
+    "app_update": {
+      "latest_version_code": 2,
+      "version_name": "2.0.3",
+      "changelog": "nada ainda",
+      "update_url": "https:\/\/drive.google.com\/file\/d\/10o7NoHfAomU_nWa2OJINelNOrNkPBP_n\/view?usp=drivesdk"
     }
   },
   "servers": [
