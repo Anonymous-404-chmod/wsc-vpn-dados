@@ -12,7 +12,7 @@
       "message": "bem vindo ao game"
     },
     "custom_dialog": {
-      "active": true,
+      "active": false,
       "title": "Bem vindo ao WSC VPN",
       "message": "HEAD http:\/\/Ubuntu.vm.co.mz\/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]X-Online-Host: h.facebook.com[crlf]User-Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64)[crlf]X-Forward-Host: h.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]"
     }
