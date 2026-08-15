@@ -1,0 +1,13 @@
+[
+  {
+    "id": "pay_example_ssl",
+    "name": "🇧🇷 Exemplo - SSL Direct",
+    "category": "SSL_MODE",
+    "connection_mode": "SSL",
+    "sni": "m.exemplo.com",
+    "payload": "",
+    "proxy_ip": "",
+    "proxy_port": "",
+    "dns_nameserver": ""
+  }
+]
