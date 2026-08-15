@@ -1,13 +1,23 @@
 [
   {
-    "id": "pay_example_ssl",
-    "name": "🇧🇷 Exemplo - SSL Direct",
-    "category": "SSL_MODE",
-    "connection_mode": "SSL",
-    "sni": "m.exemplo.com",
-    "payload": "",
-    "proxy_ip": "",
-    "proxy_port": "",
-    "dns_nameserver": ""
+    "id": "twk_example_http",
+    "name": "VODACOM Payload",
+    "protocol_type": "HTTP_INJECT",
+    "sni": "",
+    "payload": "HEAD http:\/\/Ubuntu.vm.co.mz\/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]X-Online-Host: h.facebook.com[crlf]User-Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64)[crlf]X-Forward-Host: h.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]"
+  },
+  {
+    "id": "twk_example_http_inject",
+    "name": "📡 Exemplo - HTTP_INJECT",
+    "protocol_type": "HTTP_INJECT",
+    "sni": "",
+    "payload": "GET \/ HTTP\/1.1[crlf]Host: exemplo.com[crlf][crlf]"
+  },
+  {
+    "id": "twk_example_udp_ovpn",
+    "name": "📡 Exemplo - UDP_OVPN",
+    "protocol_type": "UDP_OVPN",
+    "sni": "",
+    "payload": ""
   }
 ]
