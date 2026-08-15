@@ -1,0 +1,27 @@
+[
+  {
+    "id": "srv_example_1786829744900",
+    "name": "📡 Exemplo - SSL, HTTP_INJECT",
+    "flag": "br",
+    "server_type": "SSH",
+    "ssh_data": "198.51.100.1:22@usuario:senha",
+    "server_ip": "198.51.100.1",
+    "allowed_protocols": [
+      "SSL",
+      "HTTP_INJECT"
+    ],
+    "ovpn_template_base64": "Y2xpZW50CmRldiB0dW4KcHJvdG8gdGNwCnJlbW90ZSAwLjAuMC4wIDAKcmVzb2x2LXJldHJ5IGlu\nZmluaXRlCm5vYmluZApwZXJzaXN0LWtleQpwZXJzaXN0LXR1bgphdXRoLXVzZXItcGFzcwp2ZXJi\nIDMKPGNhPgotLS0tLUJFR0lOIENFUlRJRklDQVRFLS0tLS0KTUlJRFJUQ0NBaUdnQXdJQkFnSUpB\nTmxSLi4uCi0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0KPC9jYT4=\n"
+  },
+  {
+    "id": "srv_example_1786829744900",
+    "name": "📡 Exemplo - UDP_OVPN",
+    "flag": "br",
+    "server_type": "OVPN",
+    "ssh_data": "",
+    "server_ip": "198.51.100.1",
+    "allowed_protocols": [
+      "UDP_OVPN"
+    ],
+    "ovpn_template_base64": "Y2xpZW50CmRldiB0dW4KcHJvdG8gdGNwCnJlbW90ZSAwLjAuMC4wIDAKcmVzb2x2LXJldHJ5IGlu\nZmluaXRlCm5vYmluZApwZXJzaXN0LWtleQpwZXJzaXN0LXR1bgphdXRoLXVzZXItcGFzcwp2ZXJi\nIDMKPGNhPgotLS0tLUJFR0lOIENFUlRJRklDQVRFLS0tLS0KTUlJRFJUQ0NBaUdnQXdJQkFnSUpB\nTmxSLi4uCi0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0KPC9jYT4=\n"
+  }
+]
