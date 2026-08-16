@@ -1,0 +1,11 @@
+{
+  "announcement_dialog": {
+    "enabled": false,
+    "id": "notice_2026_08_01",
+    "is_cancelable": true,
+    "title": "📢 Novos Servidores!",
+    "message": "Adicionamos novos nós de alta velocidade.",
+    "button_text": "Entendido",
+    "action_url": "https:\/\/t.me\/+rvnmDRxxO6Y0NWRk"
+  }
+}
