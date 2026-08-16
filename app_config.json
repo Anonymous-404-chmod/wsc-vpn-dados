@@ -1,6 +1,6 @@
 {
   "announcement_dialog": {
-    "enabled": false,
+    "enabled": true,
     "id": "notice_2026_08_01",
     "is_cancelable": true,
     "title": "📢 Novos Servidores!",
