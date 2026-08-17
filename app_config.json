@@ -1,13 +1,33 @@
 {
-  "announcement_dialog": {
-    "enabled": true,
-    "id": "",
-    "is_cancelable": true,
-    "title": "ola",
-    "message": "Ben vindo",
-    "banner_image_url": "",
-    "button_text": "Entendido",
-    "action_url": "https:\/\/t.me\/+rvnmDRxxO6Y0NWRk"
-  },
-  "config_version": "20260817_142957"
+  "social_networks": [
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "icon": "tl",
+      "url": "https:\/\/t.me\/seu_canal",
+      "enabled": true
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "icon": "fb",
+      "url": "https:\/\/facebook.com\/seu_perfil",
+      "enabled": true
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "icon": "ig",
+      "url": "https:\/\/instagram.com\/seu_perfil",
+      "enabled": true
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "icon": "yt",
+      "url": "https:\/\/youtube.com\/c\/seu_canal",
+      "enabled": true
+    }
+  ],
+  "config_version": "2026\/08\/17_19:37:09"
 }
