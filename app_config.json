@@ -1,13 +1,13 @@
 {
   "announcement_dialog": {
     "enabled": true,
-    "id": "notice_2026_08_01",
+    "id": "",
     "is_cancelable": true,
-    "title": "📢 Novos Servidores!",
-    "message": "Adicionamos novos nós de alta velocidade.",
+    "title": "ola",
+    "message": "Ben vindo",
     "banner_image_url": "",
     "button_text": "Entendido",
     "action_url": "https:\/\/t.me\/+rvnmDRxxO6Y0NWRk"
   },
-  "config_version": "20260817_090952"
+  "config_version": "20260817_093837"
 }
