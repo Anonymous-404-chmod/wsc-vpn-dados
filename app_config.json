@@ -5,7 +5,9 @@
     "is_cancelable": true,
     "title": "📢 Novos Servidores!",
     "message": "Adicionamos novos nós de alta velocidade.",
+    "banner_image_url": "",
     "button_text": "Entendido",
     "action_url": "https:\/\/t.me\/+rvnmDRxxO6Y0NWRk"
-  }
+  },
+  "config_version": "20260817_090952"
 }
