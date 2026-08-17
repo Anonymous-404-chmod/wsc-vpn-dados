@@ -1,23 +1,29 @@
-[
-  {
-    "id": "twk_example_http",
-    "name": "VODACOM Payload",
-    "protocol_type": "HTTP_INJECT",
-    "sni": "",
-    "payload": "HEAD http:\/\/Ubuntu.vm.co.mz\/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]X-Online-Host: h.facebook.com[crlf]User-Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64)[crlf]X-Forward-Host: h.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]"
-  },
-  {
-    "id": "twk_example_http_inject",
-    "name": "📡 Exemplo - HTTP_INJECT",
-    "protocol_type": "HTTP_INJECT",
-    "sni": "",
-    "payload": "GET \/ HTTP\/1.1[crlf]Host: exemplo.com[crlf][crlf]"
-  },
-  {
-    "id": "twk_example_udp_ovpn",
-    "name": "📡 Exemplo - UDP_OVPN",
-    "protocol_type": "UDP_OVPN",
-    "sni": "",
-    "payload": ""
-  }
-]
+{
+  "version": "20260817_093656",
+  "data": [
+    {
+      "id": "prt_udp_tmcel",
+      "name": "Ilimitado TMCEL fast",
+      "protocol_type": "UDP_OVPN",
+      "sni": "",
+      "payload": "",
+      "icon": ""
+    },
+    {
+      "id": "twk_ssl_1",
+      "name": "WHATSAPP",
+      "protocol_type": "SSL",
+      "sni": "www.whatsapp.com",
+      "payload": "",
+      "icon": ""
+    },
+    {
+      "id": "twk_example_udp_ovpn",
+      "name": "📡 Exemplo - UDP_OVPN",
+      "protocol_type": "UDP_OVPN",
+      "sni": "",
+      "payload": "",
+      "icon": ""
+    }
+  ]
+}
