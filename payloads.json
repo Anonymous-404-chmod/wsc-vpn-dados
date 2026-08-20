@@ -1,25 +1,9 @@
 {
-  "version": "20260817_093656",
+  "version": "2026\/08\/20_17:39:32",
   "data": [
     {
-      "id": "prt_udp_tmcel",
-      "name": "Ilimitado TMCEL fast",
-      "protocol_type": "UDP_OVPN",
-      "sni": "",
-      "payload": "",
-      "icon": ""
-    },
-    {
-      "id": "twk_ssl_1",
-      "name": "WHATSAPP",
-      "protocol_type": "SSL",
-      "sni": "www.whatsapp.com",
-      "payload": "",
-      "icon": ""
-    },
-    {
-      "id": "twk_example_udp_ovpn",
-      "name": "📡 Exemplo - UDP_OVPN",
+      "id": "twk_ovpn",
+      "name": "Ilimitado TMCEL UDP🔝",
       "protocol_type": "UDP_OVPN",
       "sni": "",
       "payload": "",
