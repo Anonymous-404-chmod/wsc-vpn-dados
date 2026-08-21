@@ -1,13 +1,13 @@
 {
-  "version": "2026\/08\/20_17:39:32",
+  "version": "20260821_080949",
   "data": [
     {
-      "id": "twk_ovpn",
-      "name": "Ilimitado TMCEL UDP🔝",
+      "id": "twk_ovpn_udp",
+      "name": "ILIMITADO TMCEL UDP",
       "protocol_type": "UDP_OVPN",
       "sni": "",
       "payload": "",
-      "icon": ""
+      "icon": "udp"
     }
   ]
 }
